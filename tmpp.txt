@@ -1,0 +1,37 @@
+https://bnvf6j2hi5.execute-api.us-west-2.amazonaws.com/orgtrack/gettrack
+{
+       "crud": "getCoordTime",
+       "busno": "352887078669086",
+       "jtt":"2018-11-20",
+       "time1":"07:00",
+       "time2": "21:00"
+      }
+	  
+	  https://youtu.be/4pY3fXlWC04
+	  
+	  
+	  
+	   <base href="../rfidbeta/">
+	   
+	   869867030760260
+	   
+	   ingo =33
+	   basic = 8
+	   medium =8 
+	   
+Miryala guda inside
+
+{
+  "op": "checkGeoFenceByCoord",
+  "bus_imei_no": "869867030750790",
+  "latitude": "16.872765",
+  "longitude": "79.566208"
+}
+
+outside
+{
+  "op": "checkGeoFenceByCoord",
+  "bus_imei_no": "869867030750790",
+  "latitude": "16.872765",
+  "longitude": "79.566208"
+}
